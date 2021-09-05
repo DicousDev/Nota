@@ -1,14 +1,11 @@
 # Projeto
-O projeto foi desenvolvido para aprender a programar em Python. 
-
+O projeto foi desenvolvido para aprender a programar em Python.<br>
 Fique a vontade para analisar o código.
 
-## Estudando Python
+## Mão na massa
 Mesmo sendo um projeto simples e repetitivo, dessa vez, foi um diferente, não foi qualquer um, passei a ser mais autodidatico, que é uma das habilidades poderosa, e aprendi muito mais!
 
 No começo, me recusei a assistir vídeos aulas de programação para iniciante em Python, pois já tinha noção da lógica de programação. O que me faltava, era conhecer a syntax do Python. 
-
-## Mão na massa
 
 Comecei a sair para pesquisar conforme as minhas necessidades, primeiramente, tinha começado a pesquisar em como criar uma variável em Python. 
 Somente com essa pesquisa, já me dava o que eu precisava.<br> Em menos de 5 minutos, aprendi a como se cria uma variável e sobre muito mais, isso foi incrível comparado a uma vídeo aula de 10 minutos. Continuei o projeto, com uma mão no código e a outra mão na pesquisa.
