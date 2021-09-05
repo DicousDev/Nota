@@ -1,28 +1,5 @@
 from enum import Enum
 
-# Aprendendo no python
-
-# Importar pacotes
-# Exibir no console
-# Criar Input
-# Criar variável
-# Principais tipos de variáveis (int, float, str)
-# Converter tipos de variáveis
-# Como funciona uma variável em Python
-# Escopos
-# Execução do python
-# Array
-# Manipulação do array (Adicionar, alterar, remover, limpar)
-# Criar funções
-# Chamar funções criadas
-# Condicionais (if, elif, else)
-# Laços de repetições (for) e (while)
-# Função de return
-# Criar enum
-# Padrão de nomenclatura para Python
-
-# Dificuldade em escopos de variáveis
-
 def imprime_linha():
     print("----------------------")
 
